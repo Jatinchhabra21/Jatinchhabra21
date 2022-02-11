@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/jatin_chhabra21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jatin_chhabra21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jatin-chhabra-8a4421192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jatin-chhabra-8a4421192" height="30" width="40" /></a>
-<a href="https://instagram.com/jatinchhabra_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinchhabra_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jatinchhabra21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinchhabra21" height="30" width="40" /></a>
 </p>
 
