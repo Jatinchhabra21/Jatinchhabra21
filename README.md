@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Chhabra</h1>
 <p align="left"> <a href="https://twitter.com/jatin_chhabra21" target="blank"><img src="https://img.shields.io/twitter/follow/jatin_chhabra21?logo=twitter&style=for-the-badge" alt="jatin_chhabra21" /></a> </p>
 
-- 🌱 Machine Learning Enthusiast.
+- 🌱 Fullstack developer (React, .Net)
 
 - 📫 E-mail me **cjatin2822@gmail.com**
 
