@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 👨‍💻 Type "help" here [https://jchhabra.dev](https://jchhabra.dev)
-
-- 💬 Ask me about **C#, dotnet, React, OAuth, Rest APIs, Rust, OpenGL, C++**
+- 👨‍💻 Type "help" [here](https://jchhabra.dev)
 
 - 📫 Mail me at **cjatin2822@gmail.com**
 
